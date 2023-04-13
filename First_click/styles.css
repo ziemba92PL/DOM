@@ -67,3 +67,10 @@ body {
     color:rgb(211, 109, 26);
   }
   
+  input.error {
+    background-color: rgb(211, 54, 26);
+  }
+  
+  #remaining-chars.error {
+    color:rgb(211, 54, 26);
+  }

@@ -1,2 +1,5 @@
 const myName = 'Damian';
-console.log('Hello!');
+
+if (myName === 'Max') {
+    console.log('Hello!');
+}
